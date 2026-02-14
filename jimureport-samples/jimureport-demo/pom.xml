@@ -41,7 +41,7 @@
         <postgresql.version>42.2.6</postgresql.version>
         <ojdbc6.version>11.2.0.3</ojdbc6.version>
         <sqljdbc4.version>4.0</sqljdbc4.version>
-        <mysql-connector-java.version>8.0.20</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.33</mysql-connector-java.version>
     </properties>
 
 
